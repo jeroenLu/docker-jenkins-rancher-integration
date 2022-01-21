@@ -8,6 +8,6 @@ public class HelloWorldController {
 
     @GetMapping("/")
     public String helloWorldOperation(){
-        return "Hello Jeroen, het werkt met webhook";
+        return "Test door keten!";
     }
 }
